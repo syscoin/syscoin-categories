@@ -24,23 +24,23 @@
       "icon": "fa fa-fw fa-lg fa-car",
       "items": [{
         "text": "ATVs/UTV/Snow",
-        "cat": "For Sale > ATVs/UTV/Snow",
+        "cat": "For Sale > Auto/Vehicle > ATVs/UTV/Snow",
         "icon": "fa fa-fw fa-lg fa-shopping-cart"
       }, {
         "text": "Boats",
-        "cat": "For Sale > Boats",
+        "cat": "For Sale > Auto/Vehicle > Boats",
         "icon": "fa fa-fw fa-lg fa-ship"
       }, {
         "text": "Cars/Trucks",
-        "cat": "For Sale > Cars/Trucks",
+        "cat": "For Sale > Auto/Vehicle > Cars/Trucks",
         "icon": "fa fa-fw fa-lg fa-car"
       }, {
         "text": "Motorcycles",
-        "cat": "For Sale > Motorcycles",
+        "cat": "For Sale > Auto/Vehicle > Motorcycles",
         "icon": "fa fa-fw fa-lg fa-motorcycle"
       }, {
         "text": "RVs/campers",
-        "cat": "For Sale > RVs/campers",
+        "cat": "For Sale > Auto/Vehicle > RVs/campers",
         "icon": "fa fa-fw fa-lg fa-truck"
       }]
     },
